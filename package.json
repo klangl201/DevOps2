@@ -1,0 +1,19 @@
+{
+  "name": "klangl201-devops",
+  "version": "1.0.0",
+  "description": "CW2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klangl201/DevOps/"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+}
